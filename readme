@@ -1,0 +1,3 @@
+run the install.sh in root user
+put the blfs directory in /root/
+while the preinstall process please chose "dhcpcd"
